@@ -1,7 +1,9 @@
-# Ta-Te-Ti en C++
+# 🕹️ Ta-Te-Ti in C++
 
-Este proyecto fue uno de mis primeros encuentros con el lenguaje de programación C++, y lo realicé como trabajo práctico no obligatorio para la carrera de Desarrollo de Software. Fue una gran oportunidad para poner a prueba mis habilidades y conocimientos en C++, y aprobarlo con éxito fue muy gratificante.
+## 🌟 Project Overview
+This project was one of my first encounters with the C++ programming language, completed as an optional practical assignment for my Software Development degree. It was a good opportunity to test my skills and knowledge in C++.
 
-El proyecto consistió en implementar el juego "Ta-Te-Ti" en consola utilizando el lenguaje de programación C++. Aprendí mucho en el proceso, desde la sintaxis básica del lenguaje hasta cómo estructurar un proyecto y cómo trabajar con matrices y bucles para la lógica del juego.
+### 🎮 Project Details
+The project involved implementing the game "Ta-Te-Ti" in the console using C++. I learned a lot during the process, from the basic syntax of the language to how to structure a project and work with arrays and loops for game logic.
 
-**Aunque ha pasado un tiempo desde que realicé este proyecto, sigo estando orgulloso de él y de cómo me ayudó a mejorar mis habilidades en C++. Y aunque desde entonces he mejorado aún más mis habilidades, creo que es importante reconocer y valorar nuestros primeros trabajos y proyectos, ya que son los que nos permiten crecer y mejorar como programadores.**
+**Although some time has passed since I completed this project, I still recognize its importance in my development as a programmer and how it helped me improve my C++ skills.**
